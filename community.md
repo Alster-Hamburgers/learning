@@ -33,18 +33,16 @@ Reddit - Social link aggregator. Many links, but you’ll have to find the right
 
 ## Podcast
 
-* (Ruby on Rails Podcast)[http://5by5.tv/rubyonrails]
-* (Ruby Rogues)[http://devchat.tv/ruby-rogues]
-* (Ruby5)[https://ruby5.codeschool.com/] - Like Ruby Weekly, but as a podcast
-* (The Changelog)[https://changelog.com/]
-* (Ruby on Rails Podcast)[http://5by5.tv/rubyonrails]
+* [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
+* [Ruby Rogues](http://devchat.tv/ruby-rogues)
+* [Ruby5](https://ruby5.codeschool.com/) - Like Ruby Weekly, but as a podcast
+* [The Changelog](https://changelog.com/)
+* [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
 
 Podcatcher: AntennaPod (Android)
-
 
 ## Conferences
 
 * RailsConf
 * RubyConf
 * Full Stack Fest
-
